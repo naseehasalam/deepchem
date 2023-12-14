@@ -1,7 +1,7 @@
 import math
 import torch
 from typing import Union, Optional, Tuple
-from deepchem.utils.dft_utils import ZType
+from deepchem.utils.dft_utils.data.datastruct import ZType
 
 eps = 1e-12
 
